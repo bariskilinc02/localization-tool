@@ -1,0 +1,5 @@
+{
+  "test" : "This is a test text",
+  "test_with_value" : "This text has a {0} value",
+  "playerHealth": "Player Health {0}"
+}

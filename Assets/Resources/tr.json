@@ -1,0 +1,5 @@
+{
+  "test" : "Bu bir test yazısıdır",
+  "test_with_value" : "Bu {0} değerine sahip bir yazıdır",
+  "playerHealth": "Oyuncu Canı {0}"
+}
